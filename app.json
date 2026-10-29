@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "BrandSide",
+    "slug": "brandside",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#f7f7f9",
+    "android": {
+      "package": "com.brandside.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#22C55E"
+      }
+    }
+  }
+}
